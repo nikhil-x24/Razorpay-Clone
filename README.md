@@ -22,4 +22,5 @@ To start, run the Command:
 Open [http://localhost:](http://localhost:) with your browser to see the result.
 
 
-https://github.com/nikhil-x24/Razorpay-Clone/assets/94430005/d2b6ac9d-6de0-4f91-a856-34176fbe84bc
+![video](https://github.com/nikhil-x24/Razorpay-Clone/assets/94430005/03af143d-a780-4f43-9de3-a059c5eaf929)
+
